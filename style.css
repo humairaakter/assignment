@@ -1,0 +1,81 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: center;
+
+}
+
+h1 {
+    font-size: 50% 50% 50% 50px;
+    font-size: top;
+
+    text-align: center;
+
+}
+
+h2 {
+    font-style: italic;
+}
+
+p {
+    text-align: center;
+    color: rgb(23, 159, 201);
+
+}
+
+.hero {
+    background-color: blue;
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding-top: 40%;
+
+
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: rgb(212, 55, 55);
+    bottom: center;
+
+
+}
+
+
+.footer {
+    background-color: black;
+    color: brown;
+
+    text-align: center;
+
+}
+
+h5 {
+    color: rgb(23, 159, 201);
+}
+
+.experiences-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+.Experiences-item {
+    box-shadow: 1px 1px 3px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+
+.flexible-container {
+    display: flex;
+
+
+}
